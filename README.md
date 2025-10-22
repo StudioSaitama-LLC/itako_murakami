@@ -175,3 +175,4 @@ model: 'gpt-4-turbo-preview', // または 'gpt-4', 'gpt-3.5-turbo' など
 
 質問や問題がある場合は、プロジェクトのメンテナーに連絡してください。
 
+# イタコ村上 - Vercel Deployment
