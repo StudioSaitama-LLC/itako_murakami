@@ -4,11 +4,6 @@
   "installCommand": "npm install",
   "framework": "nextjs",
   "outputDirectory": ".next",
-  "regions": ["hnd1"],
-  "env": {
-    "OPENAI_API_KEY": "@openai-api-key",
-    "GITHUB_REPO": "StudioSaitama-LLC/murakami-context",
-    "GITHUB_BRANCH": "main"
-  }
+  "regions": ["hnd1"]
 }
 
