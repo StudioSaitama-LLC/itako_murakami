@@ -45,7 +45,7 @@ npm install
 `.env.local`ファイルを作成し、以下の内容を設定：
 
 ```env
-OPENAI_API_KEY=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
+OPENAI_API_KEY=your_openai_api_key_here
 GITHUB_REPO=StudioSaitama-LLC/murakami-context
 GITHUB_BRANCH=main
 ```
